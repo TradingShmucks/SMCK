@@ -1,0 +1,2 @@
+# SMCK
+TradingShmucks-Bots
